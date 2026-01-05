@@ -2,7 +2,7 @@
 
 This repository contains my personal website and portfolio, showcasing selected projects and research posters. The site is built as a static website and hosted using GitHub Pages.
 
-🌐 **Live site:** https://username.github.io
+🌐 **Live site:** https://apham1076.github.io
 
 ## Contents
 - About me
